@@ -1,8 +1,3 @@
-# Problem Set 2, hangman.py
-# Name: Yamcha
-# Collaborators: Me, Watashi, Ore, Myself
-# Time spent: Infinity
-
 # Hangman Game
 # -----------------------------------
 # Helper code
